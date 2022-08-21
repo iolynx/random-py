@@ -1,5 +1,5 @@
 # random-py
-a couple random projects on python.
+a couple random projects with python.
 
 **Battery Informer** <br/>
 Informs you when your battery hits 92%.
